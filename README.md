@@ -1,4 +1,4 @@
-# MLX-Audio
+Tawatchai99
 
 A text-to-speech (TTS) and Speech-to-Speech (STS) library built on Apple's MLX framework, providing efficient speech synthesis on Apple Silicon.
 
